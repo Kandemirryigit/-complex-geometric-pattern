@@ -7,7 +7,7 @@ import random  # To use random firstly we should import it
 tim=t.Turtle() # To define turtle
 
 my_screen=Screen()  # To define screen
-my_screen.bgcolor("black")
+my_screen.bgcolor("black")  # To determine background color black
 
 
 t.colormode(255)  # To use rgb colors between 0-255
